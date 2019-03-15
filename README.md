@@ -6,7 +6,7 @@ This project consists on a database component that displays data fetched from Fi
 ## Create a Firebase project
 https://firebase.google.com/docs/web/setup
 
-## Configure Firebase Cloud Functions
+## Configure Firebase Firestore
 https://firebase.google.com/docs/firestore/quickstart
 
 ## Build Setup
